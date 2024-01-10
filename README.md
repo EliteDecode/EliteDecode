@@ -4,21 +4,18 @@
   <a href="https://shawncharles.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/linkedin" target="_blank">
+  <a href="[https://shawncharles.com/linkedin](https://www.linkedin.com/in/gospel-obiuwevbi-519722183/)" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/twitter" target="_blank">
+  <a href="https://x.com/beardedtech_guy?s=21&t=Isjtu9qnWa0IJ63T5YTWBA" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="https://shawncharles.com/angellist" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
-  </a>
-  <a href="https://shawncharles.com/resume" target="_blank">
+  <a href="https://drive.google.com/file/d/13bAlVKMM5XyJ0qd0qreone612Vdxwfch/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
 
-Previously an Amazon Full-Stack Software Engineer, I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Business Management.
+A Mern-Stack Software Developer, I am motivated by the power of technology as a tool for positive change, with a background in Engineering.
 
 See [my website](https://shawncharles.com) for more information!
 

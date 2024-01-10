@@ -32,7 +32,7 @@ See [my website](https://shawncharles.com) for more information!
         <br />
         <p align="center">
           
-  <a href="https://github.com/CharlesCreativeContent/Demo-Day" target="_blank">
+  <a href="https://github.com/EliteDecode/Hillside-Uni-FE" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="\https://shawncharles.com/travelara" target="_blank">

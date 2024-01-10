@@ -24,10 +24,10 @@ See [my website](https://shawncharles.com) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travelara.org</h3>
+      <h3 align="center">Hust.edu.ng</h3>
         <br />
         <a target="_blank" href="https://shawncharles.com/travelara">
-            <img src="images/gif1.gif" width="100%" alt="Travel App"/>
+            <img src="assets/hust.gif" width="100%" alt="Travel App"/>
         </a>
         <br />
         <p align="center">

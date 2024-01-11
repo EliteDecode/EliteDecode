@@ -104,7 +104,7 @@ See [my website](https://shawncharles.com) for more information!
       <h3 align="center">AboviPh Deliveries</h3>
         <br />
         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.abovi.app">
-          <img src="assets/abovi.jpg" width="100%" alt="AboviPH"/>
+          <img src="assets/abovihh.jpg" width="100%" alt="AboviPH"/>
         </a>
         <br />
         <p align="center">
@@ -132,6 +132,7 @@ See [my website](https://shawncharles.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=tailwind"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>

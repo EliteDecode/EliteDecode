@@ -163,4 +163,7 @@ See [my website](https://shawncharles.com) for more information!
   <a href="https://drive.google.com/file/d/13bAlVKMM5XyJ0qd0qreone612Vdxwfch/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
+   <a href="https://hashnode.com/@elitedecode " target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=hashnode&logo-color=white"/>
+  </a>
 </p>

@@ -136,7 +136,7 @@ See [my website](https://shawncharles.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
    <img src="https://img.shields.io/static/v1?label=|&message=MATERIAL-UI&color=4a935c&style=plastic&logo=mui"/>
    <img src="https://img.shields.io/static/v1?label=|&message=REACT-NATIVE&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=4a935c&style=plastic&logo=nodejs"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=4a935c&style=plastic&logo=node_js"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PHP&color=4a935c&style=plastic&logo=php"/>
    <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=4a935c&style=plastic&logo=postman"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>

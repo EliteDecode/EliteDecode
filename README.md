@@ -46,6 +46,7 @@ See [my website](https://shawncharles.com) for more information!
     </td>
     <td width="50%" valign="top">
       <h3 align="center">E-Panel (Multipurpose Dashboard Functionality)</h3>
+      <h6>Demo Login: Email: Sirelite11@gmail.com , Password: 12345  </h6>
         <br />
       <a target="_blank" href="https://cpanel-c6b08.web.app/">
             <img src="assets/epanel.gif" width="100%"  alt="E panel"/>

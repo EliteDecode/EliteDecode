@@ -130,14 +130,17 @@ See [my website](https://shawncharles.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
     <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-   <img src="https://img.shields.io/static/v1?label=|&message=REACT-NATIVE&color=4a935c&style=plastic&logo=reactnative"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND-CSS&color=4a935c&style=plastic&logo=tailwindcss"/>
-   <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=4a935c&style=plastic&logo=postman"/>
-   <img src="https://img.shields.io/static/v1?label=|&message=MATERIAL-UI&color=4a935c&style=plastic&logo=mui"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=MATERIAL-UI&color=4a935c&style=plastic&logo=mui"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=REACT-NATIVE&color=4a935c&style=plastic&logo=reactnative"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=4a935c&style=plastic&logo=node"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PHP&color=4a935c&style=plastic&logo=php"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=POSTMAN&color=4a935c&style=plastic&logo=postman"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=MYSQL&color=cdd148&style=plastic&logo=mysql"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GITHUB&color=cbb148&style=plastic&logo=github"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIREBASE&color=cbb148&style=plastic&logo=firebase"/>

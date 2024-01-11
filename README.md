@@ -97,7 +97,11 @@ See [my website](https://shawncharles.com) for more information!
       </p>
         <p><strong>React Native, Material UI, Native Wind, Socket.io, Node.js, Express.js & MongoDb</strong> - Efficiently reducing the stress of contacting a delivery provider and seamlessly delivering your goods.</p>
     </td>
-    <td width="100%" valign="top">
+   
+  </tr>
+
+  <tr>
+     <td width="100%" valign="top">
       <h3 align="center">Babtech School of Technology</h3>
         <br />
         <a target="_blank" href="https://babtech.netlify.app/">

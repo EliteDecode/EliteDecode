@@ -103,9 +103,9 @@ See [my website](https://shawncharles.com) for more information!
         <td width="50%" valign="top">
       <h3 align="center">AboviPh Deliveries</h3>
         <br />
-        <a target="_blank" href="https://play.google.com/store/apps/details?id=com.abovi.app">
+<!--         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.abovi.app">
           <img src="assets/abovihh.jpg" width="100%" alt="AboviPH"/>
-        </a>
+        </a> -->
         <br />
         <p align="center">
           
@@ -134,7 +134,7 @@ See [my website](https://shawncharles.com) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
    <img src="https://img.shields.io/static/v1?label=|&message=REACT-NATIVE&color=4a935c&style=plastic&logo=reactnative"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TAILWIND-CSS&color=4a935c&style=plastic&logo=tailwindcss"/>
-   <img src="https://img.shields.io/static/v1?label=|&message=MATERIAL-UI&color=4a935c&style=plastic&logo=materialui"/>
+   <img src="https://img.shields.io/static/v1?label=|&message=MATERIAL-UI&color=4a935c&style=plastic&logo=mui"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>

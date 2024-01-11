@@ -79,7 +79,28 @@ See [my website](https://shawncharles.com) for more information!
       </p>
         <p><strong>React.js, CSS3, REST API</strong> - Trusted tour guide with proper searches for hotels, restaurants, and attractions around your city.</p>
     </td>
-    <td width="50%" valign="top">
+     <td width="50%" valign="top">
+      <h3 align="center">Babtech School of Technology</h3>
+        <br />
+        <a target="_blank" href="https://babtech.netlify.app/">
+          <img src="assets/bst.gif" width="100%" alt="BST"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/EliteDecode/Babtech-School-of-Tech" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://babtech.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React.js, Material UI, Tailwind CSS, Node.js, Express.js & MongoDb</strong> - Official platform of Babtech School of Technology, Seemless flow and content management and course registration information </p>
+    </td>
+   
+  </tr>
+  <tr>
+        <td width="50%" valign="top">
       <h3 align="center">AboviPh Deliveries</h3>
         <br />
         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.abovi.app">
@@ -98,26 +119,6 @@ See [my website](https://shawncharles.com) for more information!
         <p><strong>React Native, Material UI, Native Wind, Socket.io, Node.js, Express.js & MongoDb</strong> - Efficiently reducing the stress of contacting a delivery provider and seamlessly delivering your goods.</p>
     </td>
    
-  </tr>
-  <tr>
-        <td width="50%" valign="top">
-      <h3 align="center">Babtech School of Technology</h3>
-        <br />
-        <a target="_blank" href="https://babtech.netlify.app/">
-          <img src="assets/bst.gif" width="100%" alt="BST"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/EliteDecode/Babtech-School-of-Tech" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://babtech.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>React.js, Material UI, Tailwind CSS, Node.js, Express.js & MongoDb</strong> - Official platform of Babtech School of Technology, Seemless flow and content management and course registration informations </p>
-    </td>
   </tr>
 
  

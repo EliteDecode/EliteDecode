@@ -44,25 +44,25 @@ See [my website](https://gospelsportfolio.netlify.app) for more information!
       </p>
         <p><strong>React.js, Material UI, Tailwind CSS, Node.js, Express.js & MongoDB </strong> - Official Platform of Hillside University of Science and Technology, manages content with a content management admin panel, regulates and links admission process for students  </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">E-Panel (Multipurpose Dashboard Functionality)</h3>
-      <h6 align='center'>Demo Login: Email: Sirelite11@gmail.com , Password: 123456  </h6>
+     <td width="50%"  valign="top">
+      <h3 align="center">Babtech School of Technology</h3>
         <br />
-      <a target="_blank" href="https://cpanel-c6b08.web.app/">
-            <img src="assets/epanel.gif" width="100%"  alt="E panel"/>
+        <a target="_blank" href="https://babtech.netlify.app/">
+          <img src="assets/bst.gif" width="100%" alt="BST"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/EliteDecode/E-panel" target="_blank">
+  <a href="https://github.com/EliteDecode/Babtech-School-of-Tech" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://cpanel-c6b08.web.app/" target="_blank">
+  <a href="https://babtech.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React.js, CSS3 & Firebase</strong> - Seemless user, product, and order management with graphical analysis.</p>
+        <p><strong>React.js, Material UI, Tailwind CSS, Node.js, Express.js & MongoDb</strong> - Official platform of Babtech School of Technology, Seemless flow and content management and course registration information </p>
     </td>
+    
   </tr>
   
   <tr>
@@ -104,25 +104,25 @@ See [my website](https://gospelsportfolio.netlify.app) for more information!
    
   </tr>
   <tr>
-        <td width="100%" colspan='2' valign="top">
-      <h3 align="center">Babtech School of Technology</h3>
+       <td width="100%" valign="top" colspan='2'>
+      <h3 align="center">E-Panel (Multipurpose Dashboard Functionality)</h3>
+      <h6 align='center'>Demo Login: Email: Sirelite11@gmail.com , Password: 123456  </h6>
         <br />
-        <a target="_blank" href="https://babtech.netlify.app/">
-          <img src="assets/bst.gif" width="100%" alt="BST"/>
+      <a target="_blank" href="https://cpanel-c6b08.web.app/">
+            <img src="assets/epanel.gif" width="100%"  alt="E panel"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/EliteDecode/Babtech-School-of-Tech" target="_blank">
+  <a href="https://github.com/EliteDecode/E-panel" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://babtech.netlify.app/" target="_blank">
+  <a href="https://cpanel-c6b08.web.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React.js, Material UI, Tailwind CSS, Node.js, Express.js & MongoDb</strong> - Official platform of Babtech School of Technology, Seemless flow and content management and course registration information </p>
+        <p><strong>React.js, CSS3 & Firebase</strong> - Seemless user, product, and order management with graphical analysis.</p>
     </td>
-   
   </tr>
 
  

@@ -20,7 +20,7 @@
 
 A Mern-Stack Software Developer, I am motivated by the power of technology as a tool for positive change, with a background in Engineering.
 
-See [my website](https://shawncharles.com) for more information!
+See [my website](https://gospelsportfolio.netlify.app) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -104,7 +104,7 @@ See [my website](https://shawncharles.com) for more information!
    
   </tr>
   <tr>
-        <td width="50%" valign="top">
+        <td width="100%" valign="top" colspan="2">
       <h3 align="center">AboviPh Deliveries (Mobile App)</h3>
         <br />
 <!--         <a target="_blank" href="https://play.google.com/store/apps/details?id=com.abovi.app">

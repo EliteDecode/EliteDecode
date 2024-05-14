@@ -1,4 +1,4 @@
-![banner](assets/profile.png)
+![banner](assets/profile2.png)
 
 <p align="center">
   <a href="https://shawncharles.com" target="_blank">
